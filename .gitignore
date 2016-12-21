@@ -3,3 +3,10 @@
 ################################################################################
 
 /KP.Repository/.vs/KP.Repository/v14
+/KP.Common/obj/Debug
+/KP.Common/bin/Debug
+/.vs/KP.Repository/v14
+/KP.Dal.Sql/bin/Debug
+/KP.Dal.Sql/obj/Debug
+/KP.Repository/bin/Debug
+/KP.Repository/obj/Debug
