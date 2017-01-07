@@ -20,6 +20,11 @@ namespace KP.Repository
 
         public Person GetById(int id)
         {
+            if (id < 1)
+            {
+                throw new ArgumentException("Parameter must be a positive integer", "id");
+            }
+
             Person person = new Person();
             person.PersonId = id;
             return person;
