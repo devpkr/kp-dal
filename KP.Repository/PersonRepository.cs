@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KP.Repository
 {
-    public class PersonRepositorySql : IPersonRepository
+    public class PersonRepository : IPersonRepository
     {
         public void Add(Person person)
         {
@@ -20,7 +20,9 @@ namespace KP.Repository
 
         public Person GetById(int id)
         {
-            throw new NotImplementedException();
+            Person person = new Person();
+            person.PersonId = id;
+            return person;
         }
     }
 }
