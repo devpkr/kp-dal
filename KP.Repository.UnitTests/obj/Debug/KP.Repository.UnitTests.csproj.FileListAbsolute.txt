@@ -1,0 +1,9 @@
+C:\Sharad\GitHub\kp-dal\KP.Repository.UnitTests\bin\Debug\KP.Repository.UnitTests.dll
+C:\Sharad\GitHub\kp-dal\KP.Repository.UnitTests\bin\Debug\KP.Repository.UnitTests.pdb
+C:\Sharad\GitHub\kp-dal\KP.Repository.UnitTests\bin\Debug\KP.Repository.dll
+C:\Sharad\GitHub\kp-dal\KP.Repository.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Sharad\GitHub\kp-dal\KP.Repository.UnitTests\bin\Debug\KP.Repository.pdb
+C:\Sharad\GitHub\kp-dal\KP.Repository.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Sharad\GitHub\kp-dal\KP.Repository.UnitTests\obj\Debug\KP.Repository.UnitTests.csprojResolveAssemblyReference.cache
+C:\Sharad\GitHub\kp-dal\KP.Repository.UnitTests\obj\Debug\KP.Repository.UnitTests.dll
+C:\Sharad\GitHub\kp-dal\KP.Repository.UnitTests\obj\Debug\KP.Repository.UnitTests.pdb
